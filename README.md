@@ -1,1 +1,0 @@
-# avtra-sass-plugin
